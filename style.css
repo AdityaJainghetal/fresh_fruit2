@@ -5,7 +5,7 @@
 }
 
 #main-nav{
-    background: url(/slider-1.webp) center center/cover;
+    background: url(slider-1.webp) center center/cover;
     height: 120vh;
     
    
@@ -149,7 +149,7 @@
 
 
 #content .main-content_2 .content-img_1{
-    background: url(/banner-1.webp) center center/cover;
+    background: url(banner-1.webp) center center/cover;
     height: 350px;
     width: 450px;
 }
@@ -176,7 +176,7 @@
 
 
 #content .main-content_2 .content-img_2{
-    background: url(/banner-2.webp) center center/cover;
+    background: url(banner-2.webp) center center/cover;
     height: 350px;
     width: 450px;
     padding-left: 20px;
@@ -203,7 +203,7 @@
 
 
 #content .main-content_2 .content-img_3{
-    background: url(/banner-3.webp) center center/cover;
+    background: url(banner-3.webp) center center/cover;
     height: 350px;
     width: 450px;
     padding-left: 20px;
@@ -495,7 +495,7 @@
 }
 
 #main-content_4 .box_10{
-    background: url("/bg-10.webp") center center/cover;
+    background: url("bg-10.webp") center center/cover;
     height: 500px;
     width: 100%;
     
