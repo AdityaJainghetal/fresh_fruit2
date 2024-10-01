@@ -92,7 +92,7 @@
 }
 
 #img .main-content_2{
-    background: url(/bg-11.jpg) center center/cover;
+    background: url(bg-11.jpg) center center/cover;
     margin: 0 0 100px;
     font-size: calc(var(--font-size-body,14px) + 6px);
     padding: 100px 0 105px;
